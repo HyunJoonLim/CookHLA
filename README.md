@@ -304,7 +304,7 @@ To make these panels, we obtained both the SNP and HLA data from 1000 Genomes we
 
 ## (7) Citation
 
-S. Cook, W. Choi, H. Lim, Y. Luo, K. Kim, X. Jia, S. Raychaudhuri and B. Han, CookHLA: Accurate Imputation of Human Leukocyte Antigens. **Under Review**.
+Cook, S., Choi, W., Lim, H., Luo, Y., Kim, K., Jia, X., Raychaudhuri, S. and Han, B. (2021) ‘Accurate imputation of human leukocyte antigens with CookHLA’, Nature Communications, 12(1) **Nature Communications**
 
 <br>
 <br>
